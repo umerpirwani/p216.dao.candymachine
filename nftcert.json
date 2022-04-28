@@ -1,0 +1,15 @@
+{
+  "name": "NFT CERTIFICATE",
+  "description": "In NON FUNGIBLE we trust.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSuNWjMXBedCcjxWqLpzSD44amyGFm7Sb53x1Jza77EGV",
+  "attributes": [
+    {
+      "trait_type": "Bro",
+      "value": "Supporter Type"
+    },
+    {
+      "trait_type": "Youtube Video",
+      "value": "Viewed"
+    }
+  ]
+}
